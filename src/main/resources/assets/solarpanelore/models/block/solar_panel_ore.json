@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "solarpanelore:block/solar_panel_ore"
+  }
+}

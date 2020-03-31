@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "solarpanelore:block/solar_panel/bottom",
+    "bottom": "solarpanelore:block/solar_panel/bottom",
+    "top": "solarpanelore:block/solar_panel/top",
+    "side": "solarpanelore:block/solar_panel/side"
+  }
+}

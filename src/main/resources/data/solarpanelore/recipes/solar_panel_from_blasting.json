@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "solarpanelore:solar_panel_ore"
+  },
+  "result": "solarpanelore:solar_panel",
+  "experience": 1.0,
+  "cookingtime": 100
+}
